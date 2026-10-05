@@ -55,7 +55,7 @@ The optimality statements follow from lower bounds valid for every cyclic orderi
 - **The field of order nine.** An explicit cyclic ordering handles this case.
 - **Characteristic two.** A primitive normal basis and a cyclic Gray code produce an ordering whose adjacent sums are exactly the $`n`$ primitive basis elements.
 
-The paper also studies cyclic orderings with general prescribed adjacent-sum sets in vector spaces. Section 9 gives concrete construction algorithms.
+The paper also studies cyclic orderings with general prescribed adjacent-sum sets in vector spaces. Section 7 describes a deterministic algorithm that, given an irreducible-polynomial representation of $`\mathbb F_q`$, constructs the required ordering in time polynomial in $`q`$.
 
 ## Files and reference
 
