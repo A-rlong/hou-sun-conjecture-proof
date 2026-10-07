@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please cite it as below."
+title: "A Proof of the Hou–Sun Conjecture on Primitive Adjacent Sums"
+authors:
+  - family-names: "Zhao"
+    given-names: "Yukai"
+version: 1.0.0
+date-released: "2026-10-07"
+repository-code: "https://github.com/A-rlong/hou-sun-conjecture-proof"
+license: MIT
