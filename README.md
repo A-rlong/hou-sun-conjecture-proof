@@ -1,6 +1,6 @@
 # Primitive Adjacent Sums in Finite Fields
 
-This repository contains **Primitive Adjacent Sums in Finite Fields**, by **Yvkai Zhao**. The paper proves the Hou–Sun conjecture on cyclic orderings of finite fields with primitive adjacent sums and establishes bounds on the number of distinct adjacent sums.
+This repository contains **Primitive Adjacent Sums in Finite Fields**. The paper proves the Hou–Sun conjecture on cyclic orderings of finite fields with primitive adjacent sums and establishes bounds on the number of distinct adjacent sums.
 
 **[Read the paper (PDF)](main.pdf)**
 
